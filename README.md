@@ -23,4 +23,5 @@ IMDB Movie Reviews dataset
 
 ## Outcome
 The model successfully predicts sentiment of text data.
+
 This project helped me understand deep learning for NLP.
