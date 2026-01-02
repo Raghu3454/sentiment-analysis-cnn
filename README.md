@@ -3,7 +3,9 @@
 
 ## Description
 This project implements a sentiment analysis system using
+
 Convolutional Neural Networks (CNN) to classify text as
+
 positive or negative.
 
 ## Dataset
