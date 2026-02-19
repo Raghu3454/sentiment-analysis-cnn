@@ -1,29 +1,20 @@
-# sentiment-analysis-cnn
-# Sentiment Analysis using CNN
+# CNN-Based Sentiment Analysis
 
-## Description
-This project implements a sentiment analysis system using
+## 📌 Overview
+This project implements Sentiment Analysis using a Convolutional Neural Network (CNN) on the IMDB dataset.
 
-Convolutional Neural Networks (CNN) to classify text as
-
-positive or negative.
-
-## Dataset
-IMDB Movie Reviews dataset
-
-## Technologies Used
+## 🛠 Technologies Used
 - Python
-- TensorFlow / Keras
-- Pandas
-- NLTK
+- TensorFlow
+- Keras
+- Google Colab
 
-## Steps Involved
-- Data preprocessing
-- Tokenization and padding
-- CNN model building
-- Model training and evaluation
+## 📊 Results
+Test Accuracy: 88%
 
-## Outcome
-The model successfully predicts sentiment of text data.
+## 📂 Dataset
+IMDB Movie Reviews Dataset
 
-This project helped me understand deep learning for NLP.
+## 🚀 How to Run
+1. Install dependencies
+2. Run notebook in Google Colab
