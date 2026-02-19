@@ -62,7 +62,7 @@ Binary Crossentropy loss and Adam optimizer were used for training.
 - Validation accuracy closely matched training accuracy.
 - Model successfully classifies unseen reviews.
 
-(Add screenshot of accuracy graph here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2388954-b0a5-4c07-848b-0f2bc10b6a8f" />
 
 ---
 
